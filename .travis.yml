@@ -10,7 +10,7 @@
 git:
   depth: false
 language: java
-dist: bionic
+dist: focal
 install: true
 jdk:
  - openjdk11
